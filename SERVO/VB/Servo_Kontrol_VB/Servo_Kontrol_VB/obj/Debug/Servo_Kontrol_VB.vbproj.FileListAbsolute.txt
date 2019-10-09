@@ -1,0 +1,32 @@
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.vbprojAssemblyReference.cache
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.Form1.resources
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.Resources.resources
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.vbproj.GenerateResource.cache
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.vbproj.CoreCompileInputs.cache
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\bin\Debug\Servo_Kontrol_VB.exe.config
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\bin\Debug\Servo_Kontrol_VB.exe
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\bin\Debug\Servo_Kontrol_VB.pdb
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\bin\Debug\Servo_Kontrol_VB.xml
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.exe
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.xml
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.pdb
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\bin\Debug\Servo_Kontrol_VB.exe.manifest
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\bin\Debug\Servo_Kontrol_VB.application
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.exe.manifest
+C:\Users\orabus\Desktop\Arduino&VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.application
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\bin\Debug\Servo_Kontrol_VB.exe.config
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\bin\Debug\Servo_Kontrol_VB.exe.manifest
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\bin\Debug\Servo_Kontrol_VB.application
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\bin\Debug\Servo_Kontrol_VB.exe
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\bin\Debug\Servo_Kontrol_VB.pdb
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\bin\Debug\Servo_Kontrol_VB.xml
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.vbprojAssemblyReference.cache
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.Form1.resources
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.Resources.resources
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.vbproj.GenerateResource.cache
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.vbproj.CoreCompileInputs.cache
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.exe.manifest
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.application
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.exe
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.xml
+C:\Users\orabus\Desktop\Arduino VB\SERVO\VB\Servo_Kontrol_VB\Servo_Kontrol_VB\obj\Debug\Servo_Kontrol_VB.pdb
